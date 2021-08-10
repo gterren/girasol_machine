@@ -8,7 +8,7 @@ The Girasol Machine is an sky imager that is mounted on a solar tracker. It was 
 
 This repository contains the dependecies requiered for running the Girasol Machine: visible image fusion software, sun position in the sky software and lepton camera drivers.
 
-## Sofware
+## Software
 
 The software is run through run_girasol_machine.py file. The adquisition is threaded in multple CPUs if available. 
 
