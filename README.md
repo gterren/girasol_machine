@@ -4,7 +4,7 @@ This repository contains the software implemented in the Girasol Machine.
 
 See article: https://www.sciencedirect.com/science/article/pii/S2352340921001980
 
-The Girasol Machine is mounted on a solar tracker and it was developed to acquire infrared and visible sky images, pyranometer measurements and weather features from a nearby weather station.
+The Girasol Machine is an sky imager that is mounted on a solar tracker. It was developed to acquire infrared and visible sky images, pyranometer measurements and weather features from a nearby weather station.
 
 This repository contains the dependecies requiered for running the Girasol Machine: visible image fusion software, sun position in the sky software and lepton camera drivers.
 
@@ -18,3 +18,7 @@ The infrared camera Lepton 2.5 is installed in a purethermal 1 board: https://gr
 The solar tracker is a PTU-e46, the software is meant to operate with its control unit: https://www.flir.com/products/ptu-e46/
 
 The pyranometer is a LI-200R https://www.licor.com/env/products/light/pyranometer, that is connected to an Artuino https://www.arduino.cc for signal anolog to digital conversion purporses.
+
+## Dataset
+
+A sample dataset is publicaly available in DRYAD repository: https://datadryad.org/stash/dataset/doi%253A10.5061%252Fdryad.zcrjdfn9m
