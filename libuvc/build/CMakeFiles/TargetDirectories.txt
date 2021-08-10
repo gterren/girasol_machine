@@ -1,0 +1,8 @@
+/home/girasol/girasol_project/source/libuvc/build/CMakeFiles/install.dir
+/home/girasol/girasol_project/source/libuvc/build/CMakeFiles/list_install_components.dir
+/home/girasol/girasol_project/source/libuvc/build/CMakeFiles/rebuild_cache.dir
+/home/girasol/girasol_project/source/libuvc/build/CMakeFiles/edit_cache.dir
+/home/girasol/girasol_project/source/libuvc/build/CMakeFiles/uvc.dir
+/home/girasol/girasol_project/source/libuvc/build/CMakeFiles/uvcstatic.dir
+/home/girasol/girasol_project/source/libuvc/build/CMakeFiles/install/strip.dir
+/home/girasol/girasol_project/source/libuvc/build/CMakeFiles/install/local.dir
