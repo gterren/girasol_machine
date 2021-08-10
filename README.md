@@ -17,4 +17,4 @@ The infrared camera Lepton 2.5 is installed in a purethermal 1 board: https://gr
 
 The solar tracker is a PTU-e46, the software is meant to operate with its control unit: https://www.flir.com/products/ptu-e46/
 
-The pyranometer is a LI-200R https://www.licor.com/env/products/light/pyranometer, that is connected to an Artuino https://www.arduino.cc for digital an anolog converter purporses.
+The pyranometer is a LI-200R https://www.licor.com/env/products/light/pyranometer, that is connected to an Artuino https://www.arduino.cc for signal anolog to digital conversion purporses.
