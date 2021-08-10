@@ -35,4 +35,5 @@ The pyranometer is a LI-200R https://www.licor.com/env/products/light/pyranomete
 
 ## Dataset
 
-A sample dataset is publicaly available in DRYAD repository: https://datadryad.org/stash/dataset/doi%253A10.5061%252Fdryad.zcrjdfn9m
+A sample dataset is publicaly available in DRYAD repository: https://doi.org/10.5061/dryad.zcrjdfn9m.
+
