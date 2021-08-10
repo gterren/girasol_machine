@@ -1,4 +1,4 @@
-# girasol_machine
+# Girasol Machine
 
 This repository contains the software implemented in the Girasol Machine.
 
