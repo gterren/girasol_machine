@@ -8,6 +8,20 @@ The Girasol Machine is an sky imager that is mounted on a solar tracker. It was 
 
 This repository contains the dependecies requiered for running the Girasol Machine: visible image fusion software, sun position in the sky software and lepton camera drivers.
 
+## Sofware
+
+The software is run through run_girasol_machine.py file. The adquisition is threaded in multple CPUs if available. 
+
+The infrared images are adquired by thread_infrared.py and the pyranometer measurements using thread_pyranometer.py. 
+
+The functions and drivers of the infrared camera are in lib_lepton_camera.py. The software required to commit and build /libuvc and /purethermal1-uvc-capture. This dependencies are requiered by purethermal board 1, where the Lepton 2.5 is installed. 
+
+The multi-exposure fisheye images are acquired from the visible camera thread_visible.py and the fusion algorithm is implemented in lib_image_fusion.py. 
+
+The solar tracker is controlled with thread_tracker.py and the sun position is calculated usisng the solar time aglorithm in lib_sun_position.py.
+
+The weather features are retrived from an real time repository of a nearby weather station using this code get_weather_station_data.py.
+
 ## Hardware
 
 The reset is performed using: https://www.yepkit.com/products/ykush.
