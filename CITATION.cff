@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Terrén-Serrano"
+  given-names: "Guillermo"
+  orcid: "https://orcid.org/0000-0002-8688-2299"
+- family-names: "Bashir"
+  given-names: "Abnan"
+- family-names: "Estrada"
+  given-names: "Trilce"
+- family-names: "Martínez-Ramón"
+  given-names: "Manel"
+
+title: "Girasol Machine Software and Data Processing Code"
+version: 1.01
+date-released: 2022-08-16
+url: "https://github.com/gterren/girasol_machine"
