@@ -1,6 +1,6 @@
 {
     "description": "<p>Initial public production release</p>", 
-    "license": "other-open", 
+    "license": "Apache-2.0", 
     "title": "Girasol Machine Software and Data Processing Code", 
     "upload_type": "software", 
     "publication_date": "2022-08-16", 
