@@ -1,0 +1,43 @@
+{
+    "description": "<p>Initial public production release</p>", 
+    "license": "other-open", 
+    "title": "Girasol Machine Software and Data Processing Code", 
+    "upload_type": "software", 
+    "publication_date": "2022-08-16", 
+    "creators": [
+        {
+            "affiliation": "University of New Mexico", 
+            "name": "Guillermo Terrén-Serrano"
+        },
+        {
+            "affiliation": "University of New Mexico", 
+            "name": "Abnan Bashir"
+        },
+        {
+            "affiliation": "University of New Mexico",
+            "name": "Trilce Estrada"
+        },
+        {
+            "affiliation": "University of New Mexico",
+            "name": "Manel Martínez-Ramón"
+        }        
+    ], 
+    "access_right": "open", 
+    "related_identifiers": [
+        {
+            "scheme": "url", 
+            "identifier": "https://github.com/gterren/girasol_machine", 
+            "relation": "isSupplementTo"
+        }, 
+        {
+            "scheme": "doi", 
+            "identifier": "10.5281/zenodo.6998501", 
+            "relation": "isPartOf"
+        },
+        {
+            "scheme": "doi", 
+            "identifier": "10.1016/j.dib.2021.106914", 
+            "relation": "isSupplementTo"
+        }
+    ]
+}
