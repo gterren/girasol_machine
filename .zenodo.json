@@ -1,5 +1,5 @@
 {
-    "description": "<p>This repository contains the software implemented in the Girasol Machine.</p><p>See article: <a href='https://www.sciencedirect.com/science/article/pii/S2352340921001980'>https://www.sciencedirect.com/science/article/pii/S2352340921001980</a></p><p>The Girasol Machine is an sky imager that is mounted on a solar tracker. It was developed to acquire infrared and visible sky images, pyranometer measurements and weather features from a nearby weather station.</p><p>This repository contains the dependecies requiered for running the Girasol Machine: visible image fusion software, sun position in the sky software and lepton camera drivers.</p>", 
+    "description": "<p>This repository contains the software implemented in the Girasol Machine.</p><p>See article: <a href='https://www.sciencedirect.com/science/article/pii/S2352340921001980'>https://www.sciencedirect.com/science/article/pii/S2352340921001980</a></p><p>See realated data: <a href='https://doi.org/10.5061/dryad.zcrjdfn9m'>https://doi.org/10.5061/dryad.zcrjdfn9m</a></p><p>The Girasol Machine is an sky imager that is mounted on a solar tracker. It was developed to acquire infrared and visible sky images, pyranometer measurements and weather features from a nearby weather station.</p><p>This repository contains the dependecies requiered for running the Girasol Machine: visible image fusion software, sun position in the sky software and lepton camera drivers.</p>", 
     "license": "Apache-2.0", 
     "title": "Girasol Machine Software and Data Processing Code", 
     "upload_type": "software", 
@@ -32,6 +32,11 @@
         {
             "scheme": "url", 
             "identifier": "https://github.com/gterren/girasol_machine", 
+            "relation": "isSupplementTo"
+        }, 
+        {
+            "scheme": "doi", 
+            "identifier": "10.5061/dryad.zcrjdfn9m", 
             "relation": "isSupplementTo"
         }, 
         {
