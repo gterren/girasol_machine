@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/392002933.svg)](https://zenodo.org/badge/latestdoi/392002933)
+
 # Girasol Machine
 
 This repository contains the software implemented in the Girasol Machine.
